@@ -1,0 +1,19 @@
+# Dependencies
+/node_modules
+
+# Environment Variables - Ignores .env, .env.local, etc.
+.env*
+
+# Build folder (from running 'npm run build')
+/dist
+
+# Logs
+npm-debug.log*
+yarn-error.log
+yarn-debug.log
+
+# Test coverage folder
+/coverage
+
+# VS Code editor folder
+.vscode/
